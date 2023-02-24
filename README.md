@@ -6,3 +6,6 @@ This was the Prompt I was given:
 AS A coding boot camp student
 I WANT to take a timed quiz on JavaScript fundamentals that stores high scores
 SO THAT I can gauge my progress compared to my peers
+
+
+More Questions will be added, some random placeholder questions stand
