@@ -1,0 +1,10 @@
+.body {
+    text-align: center;
+    padding: 10px;
+    display: flex;
+    justify-content: space-evenly;
+    flex-direction: column;
+    flex-wrap: nowrap;
+    align-content: center;
+    align-items: center;
+}
